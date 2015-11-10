@@ -7,3 +7,7 @@
 # append a new line 
 
 # add line in hotfix branch
+# append a new line
+
+# add line in testing branch 
+# add line to fix the bug in testing branch
